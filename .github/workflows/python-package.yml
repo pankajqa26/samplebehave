@@ -30,6 +30,4 @@ jobs:
         pip install -r requirements.txt
     - name: Test with pytest
       run: |
-        pip install behave
-        pip install selenium
-        behave Features/DataLogin.feature
+       behave Features/Dataaxel.feature
