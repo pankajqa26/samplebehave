@@ -31,5 +31,3 @@ jobs:
     - name: Test with pytest
       run: |
        behave Features/Dataaxel.feature
-       behave Features/Dataaxleforget.feature
-       behave Features/DataLogin.feature
