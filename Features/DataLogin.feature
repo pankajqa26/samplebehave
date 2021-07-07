@@ -16,4 +16,3 @@ Examples:
   | Emails | passw |
   | admin | admin123 |
   | admin123 | admin123 |
-print("hello")
